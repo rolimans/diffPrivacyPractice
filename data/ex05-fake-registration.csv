@@ -1,0 +1,55 @@
+,Nachname,Vorname,E-Mail,PLZ,Ort,System,Semester,Points
+0,Ahonon,Gobi Parfait,gobi.ahonon@students.unibe.ch,3270,Aarberg,Android,5,89
+1,Amdemikael,Seife,seife.amdemikael@unine.ch,4912,Aarwangen,MacOS,4,15
+2,Baumgartner,Nina,nina.baumgartner@students.unibe.ch,3510,Konolfingen,Android,3,77
+3,Bernhard,Jonathan Paul Konrad,jonathan.bernhard@unifr.ch,3000,Bern,iOS,4,28
+4,Beroggi,Lien,lien.beroggi@unifr.ch,2500,Biel,Windows,10,31
+5,Brühwiler,Peter Martin,peter.bruehwiler@students.unibe.ch,3294,Büren,Windows,3,7
+6,Brunner,Julien Pierre,julien.brunner@students.unibe.ch,3400,Burgdorf,MacOS,4,9
+7,Buron,Flavien,flavien.buron@unifr.ch,2608,Courtelary,Windows,7,42
+8,Chaubert,Louis Romain,louis.chaubert@students.unibe.ch,3235,Erlach,Windows,11,41
+9,Chima,Prosper Ukoma,prosper.chima@students.unibe.ch,3312,Fraubrunnen,Android,1,93
+10,Cirkovic,Marko,marko.cirkovic@students.unibe.ch,3714,Frutigen,MacOS,10,66
+11,Dayatar,Mohd Shahid Yusuf,mohd.dayatar@students.unibe.ch,3800,Interlaken,Windows,1,82
+12,De,Soham,soham.de@students.unibe.ch,3510,Konolfingen,MacOS,12,82
+13,De Liso,Marco,marco.deliso@students.unibe.ch,2520,La Neuveville,iOS,1,66
+14,Dede,Ihsan Ufuk,ihsan.dede@students.unibe.ch,3177,Laupen,iOS,6,38
+15,Demiri,Egzont,egzont.demiri@unine.ch,2740,Moutier,Windows,8,16
+16,Dodangeh,Amir,amir.dodangeh@students.unibe.ch,2560,Nidau,MacOS,12,3
+17,Eglil,Mohammad,mohammad.eglil@students.unibe.ch,3763,Niedersimmental,Windows,3,25
+18,Elson,Malte,malte.elson@unibe.ch,3860,Oberhasli,Windows,4,33
+19,Fehr,Raphael Markus Jean-Maxim,raphael.fehr@students.unibe.ch,3770,Obersimmental,Windows,7,30
+20,Fischli,Dominik Manuel,dominik.fischli@students.unibe.ch,3792,Saanen,Windows,1,82
+21,Garkov,Dian,dian.garkov@students.unibe.ch,3150,Schwarzenburg,Android,2,54
+22,Gökmen,Mehmet,mehmet.goekmen@students.unibe.ch,3662,Seftigen,Windows,11,38
+23,Haag,Marcel,marcel.haag@students.unibe.ch,3534,Signau,Windows,5,29
+24,Ibrahimbas,Fatih,fatih.ibrahimbas@students.unibe.ch,3600,Thun,iOS,9,83
+25,Karter,Fatih Kemal,fatih.karter@students.unibe.ch,3456,Trachselwald,Windows,3,66
+26,Keller Cruz,Andrea Giselle,andrea.kellercruz@students.unibe.ch,3380,Wangen,MacOS,12,21
+27,Korumilli,Sai Vamsi,sai.korumilli@students.unibe.ch,2500,Biel,Windows,5,41
+28,Lehnherr,David Benjamin,david.lehnherr@unibe.ch,2520,La Neuveville,MacOS,8,6
+29,Maggio,Noah,noah.maggio@students.unibe.ch,2560,Nidau,Windows,1,27
+30,Manz Maruzzelli,Rocco Alesch,rocco.manzmaruzzelli@students.unibe.ch,2608,Courtelary,Linux,11,30
+31,Marti,Dario Raphael,dario.marti@students.unibe.ch,2740,Moutier,Windows,5,20
+32,Müller,Nick,nick.mueller1@students.unibe.ch,3000,Bern,MacOS,6,92
+33,Pertsiukh,Oleksandr,oleksandr.pertsiukh@students.unibe.ch,3150,Schwarzenburg,MacOS,11,21
+34,Pfister,Sophie Gabriela,sophie.pfister@students.unibe.ch,3177,Laupen,Android,11,71
+35,Piantini,Luca,luca.piantini@stu.fernuni.ch,3235,Erlach,MacOS,5,38
+36,Posada Ramírez,Ana Maria,ana.posadaramirez@students.unibe.ch,3270,Aarberg,MacOS,4,48
+37,Rizzello,Neyah Oriana Fadilla,neyah.rizzello@students.unibe.ch,3294,Büren,MacOS,1,27
+38,Robert,Lou-Anne Clara,lou-anne.robert@students.unibe.ch,3312,Fraubrunnen,Android,7,84
+39,Rodrigues Amaral,Eduardo,eduardo.rodriguesamaral@students.unibe.ch,3380,Wangen,Android,7,23
+40,Schacher,Lukas Leo,lukas.schacher@students.unibe.ch,3400,Burgdorf,iOS,8,5
+41,Schaffhauser,Samuel Roman,samuel.schaffhauser@students.unibe.ch,3456,Trachselwald,Windows,5,45
+42,Schaffner,Liva,liva.schaffner@students.unibe.ch,3510,Konolfingen,Windows,10,41
+43,Schnyder,Cindy Angela,cindy.schnyder@students.unibe.ch,3534,Signau,MacOS,11,15
+44,Schwizgebel,Gabriel Joschua,gabriel.schwizgebel@unifr.ch,3600,Thun,Linux,6,18
+45,Shala,Blendi,blendi.shala@students.unibe.ch,3662,Seftigen,MacOS,11,37
+46,Siddique,Al Amin,al.siddique@unine.ch,3714,Frutigen,Windows,12,75
+47,Srikandarajah Sellathurai,Artthik,artthik.sellathurai@students.unibe.ch,3763,Niedersimmental,MacOS,10,3
+48,Streilein,Merlin Cornelius,merlin.streilein@students.unibe.ch,3770,Obersimmental,Android,11,53
+49,Sutter,Thomas,thomas.sutter@students.unibe.ch,3792,Saanen,Android,11,95
+50,Tamhane,Richa Dinesh,richa.tamhane@students.unibe.ch,3800,Interlaken,Windows,6,2
+51,Trinca,Flaminia,flaminia.trinca@students.unibe.ch,3860,Oberhasli,Windows,11,73
+52,Ucar,Deva Betül,deva.ucar@unifr.ch,4912,Aarwangen,Windows,12,93
+53,Uzege,Gilbert Aondoaver,gilbert.uzege@students.unibe.ch,4912,Aarwangen,Windows,3,55
