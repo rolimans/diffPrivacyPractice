@@ -8,6 +8,11 @@ Before starting, make sure you have the necessary libraries installed. To instal
 
 
 ```python
+!git submodule update --init --recursive
+
+# If the command above doesn't work, try the following:
+# !rm -rf differential-privacy-library/ && git clone https://github.com/IBM/differential-privacy-library
+
 !pip install -r requirements.txt
 ```
 
